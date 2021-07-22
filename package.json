@@ -1,0 +1,11 @@
+{
+  "name": "qr-new",
+  "version": "1.0.0",
+  "description": "Qr Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "code runner"
+  },
+  "author": "Subair V M",
+  "license": "ISC"
+}
